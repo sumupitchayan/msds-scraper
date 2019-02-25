@@ -1,6 +1,6 @@
 # msds-scraper
 
-In the summer of 2018, I interned on the Business Development team of a company at a Dental Service Organization based in the Long Island / NYC area. 
+In the summer of 2018, I interned on the Business Development team of a company at a Dental Service Organization based in the NYC area. 
 
 While most of my work dealt with M&A activities (analyzing census data to find target locations, attending meetings with potential dental practice sellers, carrying out due diligence/modeling tax return data for deals on Excel), I was also challenged with other roles that allowed me to make an impact on the company as a whole; one of which was compiling a database of MSDS files.
 
